@@ -8,7 +8,7 @@
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
 
-    <title>requently Asked Questions (FAQ) SIK</title>
+    <title>Frequently Asked Questions (FAQ) SIK</title>
 
 </head>
 
@@ -105,8 +105,8 @@
       <section>
         <img src="image/gambar.png" alt="..." style="width:100%; height:300px; position: relative; z-index: 1;">
         <div class="container">
-            <h1 style="position: absolute; top: 300px; z-index: 2; color: white;">requently Asked Questions (FAQ)</h1>
-            <h6 style="position: absolute; top: 370px; z-index: 2; color: white;">Home / requently Asked Questions (FAQ)</h6>
+            <h1 style="position: absolute; top: 300px; z-index: 2; color: white;">Frequently Asked Questions (FAQ)</h1>
+            <h6 style="position: absolute; top: 370px; z-index: 2; color: white;">Home / Frequently Asked Questions (FAQ)</h6>
         </div>
       <br><br>
       </section>
